@@ -1,2 +1,2 @@
 # Party
-Triste is a party
+this is a party
